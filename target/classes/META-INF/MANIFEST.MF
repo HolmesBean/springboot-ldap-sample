@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ldap
+Implementation-Version: 0.1.0
+Built-By: bak
+Implementation-Vendor-Id: sample.data
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://projects.spring.io/spring-boot/ldap/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
